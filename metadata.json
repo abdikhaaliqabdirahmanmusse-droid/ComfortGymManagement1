@@ -1,0 +1,6 @@
+{
+  "name": "Comfort Gym Management System",
+  "description": "A complete, production-ready, secure, and responsive web-based Gym Management System (GMS) featuring role-based dashboards, member tracking, payment invoicing, trainer scheduling, class attendance, equipment maintenance, and advanced reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
